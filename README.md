@@ -1,2 +1,2 @@
-# simple-scrapydweb
-A simple scrapydweb implementation
+# simple-scrapyd
+A simple scrapyd implementation
